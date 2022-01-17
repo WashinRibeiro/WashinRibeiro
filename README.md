@@ -34,3 +34,6 @@
     <a href="https://api.whatsapp.com/send?phone=5521968497034text=Olá!%20Washington"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
     <a href="https://www.instagram.com/washin_fdc/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/washin_fdc/"></a>
 <div>
+
+  
+![Snake animation](https://github.com/WashinRibeiro/WashinRibeiro/blob/output/github-contribution-grid-snake.svg)
