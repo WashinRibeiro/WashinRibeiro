@@ -10,16 +10,55 @@
   
  <br/>
  <p align="left" >
-    <img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">  &nbsp;&nbsp;
-    <img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"> &nbsp;&nbsp;
-    <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> &nbsp;&nbsp;
-    <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> &nbsp;&nbsp;
-    <img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> &nbsp;&nbsp;
-    <img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> &nbsp;&nbsp;
-    <img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> &nbsp;&nbsp;
-    <img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"> &nbsp;&nbsp;
-    <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg"> &nbsp;&nbsp;
-    <img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg"> &nbsp;&nbsp;
+    
+   <a href="https://git-scm.com/" target="_blank">
+      <img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+    </a> &nbsp;&nbsp;
+    
+   <a href="https://github.com/" target="_blank">
+     <img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+   </a > &nbsp;&nbsp;
+   
+   <a >
+     <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+   </a > &nbsp;&nbsp;
+   
+   <a >
+     <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+   </a > &nbsp;&nbsp;
+   
+   <a >
+     <img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+   </a > &nbsp;&nbsp;
+   
+   <a href="https://www.python.org/" target="_blank">
+     <img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+   </a > &nbsp;&nbsp;
+   
+   <a href="https://www.oracle.com/br/java/" target="_blank">
+      <img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+   </a > &nbsp;&nbsp;
+   
+   <a href="https://docs.microsoft.com/pt-br/dotnet/csharp/" target="_blank">
+     <img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+   </a > &nbsp;&nbsp;
+    
+   <a href="https://docs.microsoft.com/pt-br/dotnet/csharp/" target="_blank">
+     <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg">
+   </a > &nbsp;&nbsp;
+    
+   <a href="https://www.postgresql.org/" target="_blank">
+     <img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg">
+   </a > &nbsp;&nbsp;
+   
+   <a href="https://www.heroku.com/" target="_blank">
+     <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg"/>
+   </a> &nbsp;&nbsp;
+   
+   <a href="https://www.netlify.com/" target="_blank">
+     <img height="35" src="https://raw.githubusercontent.com/ljanotte/project-dsmovie/7af3a98786dfc3c4782957b9ec35ac161576e989/images/netlify.svg"/>
+   </a> &nbsp;&nbsp;
+    
 </p>
 
  
