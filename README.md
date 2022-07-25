@@ -51,14 +51,6 @@
      <img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg">
    </a > &nbsp;&nbsp;
    
-   <a href="https://www.heroku.com/" target="_blank">
-     <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg"/>
-   </a> &nbsp;&nbsp;
-   
-   <a href="https://www.netlify.com/" target="_blank">
-     <img height="35" src="https://raw.githubusercontent.com/ljanotte/project-dsmovie/7af3a98786dfc3c4782957b9ec35ac161576e989/images/netlify.svg"/>
-   </a> &nbsp;&nbsp;
-    
 </p>
 
  
