@@ -42,15 +42,6 @@
    <a href="https://docs.microsoft.com/pt-br/dotnet/csharp/" target="_blank">
      <img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
    </a > &nbsp;&nbsp;
-    
-   <a href="https://docs.microsoft.com/pt-br/dotnet/csharp/" target="_blank">
-     <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg">
-   </a > &nbsp;&nbsp;
-    
-   <a href="https://www.postgresql.org/" target="_blank">
-     <img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg">
-   </a > &nbsp;&nbsp;
-   
 </p>
 
  
