@@ -19,16 +19,28 @@
      <img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
    </a > &nbsp;&nbsp;
    
-   <a >
+   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank">
      <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
    </a > &nbsp;&nbsp;
    
-   <a >
+   <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank">
      <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
    </a > &nbsp;&nbsp;
    
-   <a >
+   <a href="https://developer.mozilla.org/pt-BR/docs/Glossary/JavaScript" target="_blank">
      <img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+   </a > &nbsp;&nbsp;
+   
+   <a href="https://www.typescriptlang.org/" target="_blank">
+     <img height="35" src="https://cdn.worldvectorlogo.com/logos/typescript.svg">
+   </a > &nbsp;&nbsp;
+   
+   <a href="https://angular.io/" target="_blank">
+     <img height="35" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg">
+   </a > &nbsp;&nbsp;
+   
+   <a href="https://pt-br.reactjs.org/" target="_blank">
+     <img height="35" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" />
    </a > &nbsp;&nbsp;
    
    <a href="https://www.python.org/" target="_blank">
@@ -44,7 +56,6 @@
    </a > &nbsp;&nbsp;
 </p>
 
- 
 
  ## Contact :iphone:
   
