@@ -42,18 +42,14 @@
    <a href="https://pt-br.reactjs.org/" target="_blank">
      <img height="35" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" />
    </a > &nbsp;&nbsp;
-   
-   <a href="https://www.python.org/" target="_blank">
-     <img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-   </a > &nbsp;&nbsp;
-   
-   <a href="https://www.oracle.com/br/java/" target="_blank">
+      
+<!--    <a href="https://www.oracle.com/br/java/" target="_blank">
       <img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
    </a > &nbsp;&nbsp;
    
    <a href="https://docs.microsoft.com/pt-br/dotnet/csharp/" target="_blank">
      <img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-   </a > &nbsp;&nbsp;
+   </a > &nbsp;&nbsp; -->
 </p>
 
 
@@ -65,7 +61,7 @@
     <a href="https://www.linkedin.com/in/washington-ribeiro-da-silva-67997219a/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/washington-ribeiro-da-silva-67997219a/"></a>
     <a href="https://www.facebook.com/washington.ribeiro.376258"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/washington.ribeiro.376258"></a>
     <a href="https://contate.me/washin.ribeiro"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-    <a href="https://www.instagram.com/washin_fdc/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/washin_fdc/"></a>
+    <a href="https://www.instagram.com/washin_fdc/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/washin_ribeiro/"></a>
 <div>
 
   
